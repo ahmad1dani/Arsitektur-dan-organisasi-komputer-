@@ -1,0 +1,48 @@
+Soal Latihan :
+1. Jelaskan perbedaan utama Organisasi Komputer dan Arisitektur Komputer? Beri Contohnya.
+2. Gambarkan Struktur Top Level komputer dan  jelaskan masing-masing fungsi?
+3. Gambarkan Struktur Central Processing Unit dan jelaskan masing-masing fungsi?
+4. Gambarkan operasi-operasi komputer dan  jelaskan masing-masing fungsi?
+
+Jawab:
+1. Perbedaan arisitektur dan organasasi komputer
+ * Arsitektur 
+-  Arsitektur sama,
+-  Arsitektur bertahan lama, organisasi menyesuaikan dengan  perkembangan teknologi.
+-  Arsitektur komputer mempelajari atribut-atribut sistem yang terkait dengan seorang programmer dan memiliki dampak langsung pada eksekusi logis sebuah program. 
+  Contoh : set intruksi, dan teknik pengalamatan, aritmetika yang digunakan,mekanisme i/o.
+ * Organisasi
+ - organisasi dapat berbeda.
+ - organisasi menyesuaikan dengan  perkembangan teknologi.
+ - organisasi komputer mempelajari bagian yang terkait dengan unit-unit operasional komputer dan hubungannya antara komponen sistem komputer dan interkoneksi yang merealisasikan spesifikasi arsitektural.
+Contoh : sinyal sinyal kontrol, interface, dan teknologi memori,teknologi hardware,perangkat antarmuka dan sistem memori.
+
+2. fungsi Struktur Top Level Komputer
+- CPU merupakan otak sistem komputer,yang mengontrol operasi komputer dan membentuk fungsi-fungsi pengelolahan data dan membentuk dua bagian fungsi operasional, yaitu:
+    1.ALU (Arithmetical Logical Unit) sebagai pusat pengolah data, dan
+    2.CU (Control Unit) sebagai pengontrol kerja komputer.
+- (i/o) atau Input Device (Alat Masukan) : Adalah perangkat keras komputer yang berfungsi sebagai alat untuk memasukan data atau perintah ke dalam komputer. Dan Output Device (Alat Keluaran) berfungsi untuk: menampilkan keluaran sebagai hasil pengolahan data. Keluaran dapat berupa hard-copy (ke kertas), soft-copy (ke monitor), berupa suara 
+ataupun yang memindahkan data antara komputer dengan lingkungan luarnya.
+- System interconnection Beberapa mekanisme komunikasi yang berfungsi untuk menghubungkan ke CPU, memori utama dan I/O.
+- memory utama berfungsi sebagai media penyimpanan data yang berkaitan dengan CPU atau perangkat I/O.
+
+3. fungsi Struktur Central Processing Unit
+a)  Control Unit, berfungsi untuk mengontrol operasi CPU dan pada akhirnya mengontrol komputer secara keseluruhan.
+b)  Arithmetic And Logic Unit (ALU), berfungsi untuk membentuk fungsi – fungsi pengolahan data komputer berupa angka biner.
+c)  Register, berfungsi sebagai penyimpan internal bagi CPU.
+d)  CPU Interconnection, sejumlah mekanisme komunikasi antara control unit,alu dan register register yang berfungsi menghubungkan seluruh bagian dari CPU.
+e)  Internal bus ,berfungsi untuk mengendalikan semua bagian dalam CPU.
+
+4. fungsi operasi-operasi komputer
+ A. Pemindahan Data 
+Komputer sebagai alat memindahkan data, dengan memindahkan data dari periperal atau saluran komunikasi ke perangkat lainnya. 
+Contoh : Keyboard ke Screen.
+ B. Penyimpanan Data
+Data yang dipindahkan dari lingkungan luar ke penyimpanan komputer/baca atau sebaliknya/tulis.
+Contoh : Internet download ke disk/ harddisk.
+ C. Pengolahan Data dari/ke unit penyimpanan
+Operasi-operasi yang berfungsi pengolahan data, baik dari atau ke penyimpanan. 
+Contoh : Updating bank statement.
+ D. Pengolahan Data dari unit penyimpanan ke I/O
+sebuah Operasi perpindahan antar tempat penyimpanan dan lingkungan luar. 
+Contoh : Printing Bank Statement.
